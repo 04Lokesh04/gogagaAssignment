@@ -1,0 +1,107 @@
+.navbar{
+    background-color: #ffffff;
+    height: 85px;
+    width: 100vw;
+}
+.logo{
+    height: 65px;
+    width: 155px;
+    margin-left: 100px;
+}
+
+
+.nav-item{
+    list-style-type: none;
+}
+.link{
+    color: black;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 300;
+    margin-right: 25px;
+    text-decoration: none;
+}
+
+.profile-button{
+    height: 60px;
+    width: 85px;
+    font-size: 25px;
+}
+
+.Main-container{
+    background-image: url('bora-bora-gogaga-3023437_1920.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading{
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto";
+    margin-bottom: 12px;
+    font-weight: 400;
+}
+
+.main-para{
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+    margin-bottom: 12px;
+    font-weight: 200;
+}
+
+.inputs-container{
+    width: 100vw;
+    margin-bottom: 25px;
+    
+}
+
+.input1{
+    border: 1px darkgrey solid;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+label{
+    color: gray;
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+input{
+    color: black;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.date-para{
+    color: black;
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+.search-button{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.rating-para{
+    color: darkgray;
+    font-size: 17px;
+    font-family: "Roboto";
+    font-weight: 200;
+    margin: 15px;
+}
+
+.rating-button{
+    height: 30px;
+    width: 60px;
+    font-size: 12px;
+    margin: 15px;
+}
+
+.card{
+    width: 90%;
+    margin-left: 100px;
+}
